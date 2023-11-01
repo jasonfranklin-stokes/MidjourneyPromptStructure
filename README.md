@@ -4,7 +4,7 @@ Designed for LLM agents to craft midjourney prompts from user input.
 
 ## text prompt construction
 
-a combination of objects, attributes, emotions, verbs by [name of artist], [type of composition] composition, [types of artistic moods], [types of artistic quality], [types of artistic techiques], [types of artistic styles], [types of artistic medium] 
+a combination of objects, attributes, emotions, verbs by [name of artist], [type of composition] composition, [types of artistic moods], [types of artistic quality], [types of artistic techiques], [types of artistic styles], [types of artistic medium], [parameters]
 
 ## Image Prompts
 
